@@ -8,6 +8,7 @@
   font-family: pop;
   src: url('../assets/fonts/Poppins-Regular.ttf');
 }
+<<<<<<< HEAD
 :root{
   --bs-teal:#20c997;
   --bs-green:#198754;
@@ -15,6 +16,23 @@
   --bs-white: #fff;
   --bs-red: #dc3545;
 
+=======
+h1{
+  font-size: 48px;
+  font-family: pop;
+}
+h2{
+  font-size: 36px;
+  font-family: pop;
+}
+h3{
+  font-size: 24px;
+  font-family: pop;
+}
+p{
+  font-size: 18px;
+  font-family: pop;
+>>>>>>> 927ddd452cd7c7f5107b5e2432397b6276dc40df
 }
 //mixins
 
@@ -28,6 +46,5 @@
 
 
 //footer start
-
 
 //footer end

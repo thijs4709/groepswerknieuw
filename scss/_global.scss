@@ -8,8 +8,14 @@
   font-family: pop;
   src: url('../assets/fonts/Poppins-Regular.ttf');
 }
+:root{
+  --bs-teal:#20c997;
+  --bs-green:#198754;
+  --bs-gray: #6c757d;
+  --bs-white: #fff;
+  --bs-red: #dc3545;
 
-
+}
 //mixins
 
 

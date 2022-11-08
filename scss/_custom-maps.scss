@@ -1,6 +1,6 @@
 // Create your own color map
 $custom-colors: (
-  "custom": $custom,
+  "custom": $custom,"bg-light":$custom-light,"bg-dark":$custom-dark,
 );
 
 // Merge the color maps
@@ -16,6 +16,7 @@ $custom-spacers: (
 
 // Merge the color maps
 $spacers: map-merge($spacers, $custom-spacers);
+
 
 
 

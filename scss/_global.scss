@@ -4,6 +4,11 @@
   @include button-variant(rgba(0,0,0,0.3), white, white, rgba(0,0,0,0.6), white, white);
   border-radius: 0;
 }
+@font-face {
+  font-family: pop;
+  src: url('../assets/fonts/Poppins-Regular.ttf');
+}
+
 
 //mixins
 
